@@ -1,0 +1,70 @@
+
+.matrix_object_table{
+  
+    height: 100%;
+    font-size: 13pt;
+    text-align: center;
+    font-weight: bold;
+    color: #0D1D47;
+	margin: 0;
+	padding: 0;
+	padding-top: 5pt;
+	padding-bottom: 5pt;
+    
+    border-left: 4px solid #0D1D47;
+    border-right: 4px solid #0D1D47;
+    border-radius: 12px;
+    
+}
+.matrix_object_table td{
+  margin: 0;
+  padding: 0;
+
+  
+  
+}
+.matrix_obj_entry_input{
+    margin: 0;
+    font-size: 13pt;
+    text-align: center;
+    font-weight: bold;
+    color: #0D1D47;
+    border: none;
+    padding: 3px;
+    width: 40px;
+	overflow-x: display;
+    outline-color: #325171;
+	cursor: pointer;
+    
+}
+
+.matrix_obj_entry_input_dis{
+    margin: 0;
+    font-size: 13pt;
+    text-align: center;
+    font-weight: bold;
+    color: #646464;
+    border: none;
+    padding: 3px;
+    width: 40px;
+	overflow-x: display;
+    outline-color: #325171;
+	cursor: pointer;
+    background-color:  inherit;
+    
+}
+
+.matrix_object_td_name{
+    font-size: 20pt;
+	width: 20%;
+	min-width: 50px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.matrix_object_outer_table{
+  
+}
+.matrix_object_outer_table td{
+ 
+}
